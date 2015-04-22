@@ -9,18 +9,18 @@
         <dex dex="E:\SourceTreeWorkSpace\0421GitHubNewBranch\demo\demo\app\build\intermediates\pre-dexed\debug\gson-2.2.4-54405faa36238d29a159c641373139ea99b1be84.jar" />
     </item>
     <item
-        jar="E:\SourceTreeWorkSpace\0421GitHubNewBranch\demo\demo\app\libs\TencentMapSDK_Raster_v1.0.6.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="232c8c3964113f0f39a9f4cdd3473d5075d188aa">
-        <dex dex="E:\SourceTreeWorkSpace\0421GitHubNewBranch\demo\demo\app\build\intermediates\pre-dexed\debug\TencentMapSDK_Raster_v1.0.6-50e578947aba8b1e2acb2fc440d32d55d2ac8e71.jar" />
-    </item>
-    <item
         jar="E:\SourceTreeWorkSpace\0421GitHubNewBranch\demo\demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
         <dex dex="E:\SourceTreeWorkSpace\0421GitHubNewBranch\demo\demo\app\build\intermediates\pre-dexed\debug\classes-58dbf82b200defe97441b5e7d6a9a3f26f5a6e25.jar" />
+    </item>
+    <item
+        jar="E:\SourceTreeWorkSpace\0421GitHubNewBranch\demo\demo\app\libs\TencentMapSDK_Raster_v1.0.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="232c8c3964113f0f39a9f4cdd3473d5075d188aa">
+        <dex dex="E:\SourceTreeWorkSpace\0421GitHubNewBranch\demo\demo\app\build\intermediates\pre-dexed\debug\TencentMapSDK_Raster_v1.0.6-50e578947aba8b1e2acb2fc440d32d55d2ac8e71.jar" />
     </item>
     <item
         jar="E:\SourceTreeWorkSpace\2015GitHubWorkSpace\demo-app-android-quick-start\app\build\intermediates\exploded-aar\demo-app-android-quick-start\kit\unspecified\classes.jar"
@@ -61,7 +61,7 @@
         jar="E:\SourceTreeWorkSpace\2015GitHubWorkSpace\demo-app-android-quick-start\app\build\intermediates\exploded-aar\demo-app-android-quick-start\kit\unspecified\libs\Rong_IMKit_v1_2_0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="78f98045198428345f35a51c83a8bf2adacfde01">
+        sha1="dce27234238e61aee71723f75ca9b7731f555fae">
         <dex dex="E:\SourceTreeWorkSpace\2015GitHubWorkSpace\demo-app-android-quick-start\app\build\intermediates\pre-dexed\debug\Rong_IMKit_v1_2_0-9b2522debacd48c7fa6fc3c61d2d6b89ba89efd7.jar" />
     </item>
     <item
