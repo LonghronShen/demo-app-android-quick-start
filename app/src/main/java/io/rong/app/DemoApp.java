@@ -26,21 +26,21 @@ public class DemoApp extends Application {
 
         RongIM.init(this);
 
-        RongIM.setGetUserInfoProvider(new RongIM.GetUserInfoProvider() {
-            @Override
-            public UserInfo getUserInfo(String userId) {
-                return new UserInfo("2462", "yangb111", Uri.parse("tet"));
-            }
-        }, false);
-
-
-        RongIM.setGetGroupInfoProvider(new RongIM.GetGroupInfoProvider() {
-            @Override
-            public Group getGroupInfo(String groupId) {
-
-                return null;
-            }
-        });
+//        RongIM.setGetUserInfoProvider(new RongIM.GetUserInfoProvider() {
+//            @Override
+//            public UserInfo getUserInfo(String userId) {
+//                return new UserInfo("2462", "yangb111", Uri.parse("tet"));
+//            }
+//        }, false);
+//
+//
+//        RongIM.setGetGroupInfoProvider(new RongIM.GetGroupInfoProvider() {
+//            @Override
+//            public Group getGroupInfo(String groupId) {
+//
+//                return null;
+//            }
+//        });
     }
 
 }

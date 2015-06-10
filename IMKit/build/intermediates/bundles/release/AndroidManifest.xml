@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.rong.imkit"
+    android:versionCode="2015060820"
+    android:versionName="2.1.1stable" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="19" />
+
+    <application android:allowBackup="true" >
+    </application>
+
+</manifest>

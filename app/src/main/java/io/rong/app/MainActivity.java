@@ -9,7 +9,6 @@ import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
-
 import io.rong.imkit.RongIM;
 import io.rong.imlib.RongIMClient;
 import io.rong.imlib.model.Conversation;
@@ -28,6 +27,8 @@ public class MainActivity extends ActionBarActivity implements Handler.Callback 
         setContentView(R.layout.activity_main);
         getSupportActionBar().setTitle("RongCloud Demo");
         getSupportActionBar().setLogo(R.drawable.de_bar_logo);
+
+
         mHandler = new Handler(this);
 
 
@@ -39,17 +40,24 @@ public class MainActivity extends ActionBarActivity implements Handler.Callback 
                  */
                 RongIM.connect(Token, new RongIMClient.ConnectCallback() {
                     @Override
+                    public void onTokenIncorrect() {
+                        Log.e(TAG, "------onTokenIncorrect----" );
+                    }
+
+                    @Override
                     public void onSuccess(String userId) {
                         Log.e(TAG, "------onSuccess----" + userId);
                     }
 
                     @Override
-                    public void onError(RongIMClient.ErrorCode error) {
-                        Log.e(TAG, "------onError----" + error);
+                    public void onError(RongIMClient.ErrorCode errorCode) {
+                        Log.e(TAG, "------onError----" + errorCode);
                     }
                 });
+
             }
         }, 3000);
+
 
     }
 
@@ -95,4 +103,6 @@ public class MainActivity extends ActionBarActivity implements Handler.Callback 
     public boolean handleMessage(Message msg) {
         return false;
     }
+
+
 }
