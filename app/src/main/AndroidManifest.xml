@@ -62,7 +62,7 @@
                     android:scheme="rong" />
             </intent-filter>
         </activity>
-        <!--会话页面-->
+        <!--会话页面－测试代码，看 README 注释-->
         <activity
             android:name="io.rong.fast.test.conversation.ConversationDynamicActivity"
             android:screenOrientation="portrait"
@@ -100,7 +100,7 @@
             </intent-filter>
         </activity>
 
-        <!--会话列表-->
+        <!--会话列表－测试代码，看 README 注释-->
         <activity
             android:name=".test.conversationlist.ConversationListDynamicActivtiy"
             android:screenOrientation="portrait"
@@ -135,7 +135,7 @@
                     android:scheme="rong" />
             </intent-filter>
         </activity>
-        <!--聚合会话列表-->
+        <!--聚合会话列表 －测试代码，看 README 注释-->
         <activity
             android:name="io.rong.fast.test.subconversationlist.SubConversationListDynamicActivtiy"
             android:screenOrientation="portrait"
