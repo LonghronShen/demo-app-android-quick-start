@@ -3,4 +3,4 @@
 
     <item android:drawable="@drawable/rc_btn_voice_hover" android:state_pressed="true"></item>
     <item android:drawable="@drawable/rc_btn_voice_normal"></item>
-</selector><!-- From: file:/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/IMKit/src/main/res/drawable/rc_btn_voice.xml -->
+</selector><!-- From: file:/Users/Bob_ge/Documents/GitHubWorkSpace/Local2.0+/demo_app_android_fast_v2/IMKit/src/main/res/drawable/rc_btn_voice.xml -->

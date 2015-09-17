@@ -11,4 +11,4 @@
         android:textColor="@color/rc_text_voice"
         android:background="@drawable/rc_btn_voice"
         android:text="@string/rc_input_voice" />
-</merge><!-- From: file:/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/IMKit/src/main/res/layout/rc_wi_vo_provider.xml -->
+</merge><!-- From: file:/Users/Bob_ge/Documents/GitHubWorkSpace/Local2.0+/demo_app_android_fast_v2/IMKit/src/main/res/layout/rc_wi_vo_provider.xml -->

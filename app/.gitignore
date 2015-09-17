@@ -1,7 +1,1 @@
-*.properties
-*.iml
-build/
-bin/
-gen/
-obj/
-src/main/obj/
+/build

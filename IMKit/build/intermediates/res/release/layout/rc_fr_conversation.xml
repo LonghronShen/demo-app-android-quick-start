@@ -2,7 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-    android:background="@color/rc_normal_bg">
+                android:background="@color/rc_normal_bg">
 
     <fragment
         android:id="@android:id/toggle"
@@ -17,4 +17,4 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_above="@android:id/toggle"/>
-</RelativeLayout><!-- From: file:/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/IMKit/src/main/res/layout/rc_fr_conversation.xml -->
+</RelativeLayout><!-- From: file:/Users/Bob_ge/Documents/GitHubWorkSpace/Local2.0+/demo_app_android_fast_v2/IMKit/src/main/res/layout/rc_fr_conversation.xml -->

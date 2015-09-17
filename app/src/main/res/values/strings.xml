@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">fast_v2</string>
 
-    <string name="app_name">融云 Demo</string>
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">设置</string>
-
+    <string name="action_settings">Settings</string>
 </resources>

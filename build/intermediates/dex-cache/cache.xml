@@ -2,46 +2,39 @@
 <items version="2" >
 
     <item
+        jar="/Users/Bob_ge/Documents/GitHubWorkSpace/Local2.0+/demo_app_android_fast_v2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Bob_ge/Documents/GitHubWorkSpace/Local2.0+/demo_app_android_fast_v2/app/build/intermediates/pre-dexed/debug/classes-773df9ed360f7c68445132c11b22183b22736c54.jar" />
+    </item>
+    <item
+        jar="/Users/Bob_ge/Documents/GitHubWorkSpace/Local2.0+/demo_app_android_fast_v2/app/build/intermediates/exploded-aar/demo_app_android_fast_v2/IMKit/unspecified/jars/libs/Rong_IMKit_v2_2_8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2624ff7c80b6cf96991d49eee4f2490b3be99c8f">
+        <dex dex="/Users/Bob_ge/Documents/GitHubWorkSpace/Local2.0+/demo_app_android_fast_v2/app/build/intermediates/pre-dexed/debug/Rong_IMKit_v2_2_8-7a10b18e2ac5025dee7f26792ae592220bd1e8a0.jar" />
+    </item>
+    <item
+        jar="/Users/Bob_ge/Documents/GitHubWorkSpace/Local2.0+/demo_app_android_fast_v2/app/build/intermediates/exploded-aar/demo_app_android_fast_v2/IMKit/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a134063b7872c8095041548e5b771a5479623252">
+        <dex dex="/Users/Bob_ge/Documents/GitHubWorkSpace/Local2.0+/demo_app_android_fast_v2/app/build/intermediates/pre-dexed/debug/classes-70709b1e4569d6bd1e8df9f7d420387f6e0f5b54.jar" />
+    </item>
+    <item
         jar="/Users/Bob_ge/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
         jumboMode="false"
-        revision="21.1.2"
+        revision="22.0.1"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c9664b1ab2ac3ff6c2675cfe6d58120f45ef96f3.jar" />
+        <dex dex="/Users/Bob_ge/Documents/GitHubWorkSpace/Local2.0+/demo_app_android_fast_v2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c9664b1ab2ac3ff6c2675cfe6d58120f45ef96f3.jar" />
     </item>
     <item
-        jar="/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jar="/Users/Bob_ge/Documents/GitHubWorkSpace/Local2.0+/demo_app_android_fast_v2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
         jumboMode="false"
-        revision="21.1.2"
+        revision="22.0.1"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e6e32473720072da241b3ca3b66614f1ec389662.jar" />
-    </item>
-    <item
-        jar="/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/app/build/intermediates/exploded-aar/demo-app-android-quick-start/IMKit/unspecified/libs/Rong_IMKit_v2_1_1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="08214e3db593e8264a72455a270c2910083d8437">
-        <dex dex="/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/app/build/intermediates/pre-dexed/debug/Rong_IMKit_v2_1_1-95fd7f5cc14b79b81df9d44be4002bd934250b44.jar" />
-    </item>
-    <item
-        jar="/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
-        <dex dex="/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/app/build/intermediates/pre-dexed/debug/classes-e8a143bff1016afec8c151af6784628a60738304.jar" />
-    </item>
-    <item
-        jar="/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/app/build/intermediates/pre-dexed/debug/classes-61b680b0a20ab354fb029e1081a4b608fa97ddd8.jar" />
-    </item>
-    <item
-        jar="/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/app/build/intermediates/exploded-aar/demo-app-android-quick-start/IMKit/unspecified/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b1bcad7f47e15b70121204ecf2b91e1fd9737bb1">
-        <dex dex="/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/app/build/intermediates/pre-dexed/debug/classes-6091fcd17e2b5092f125d882d5bea6b90fee367c.jar" />
+        <dex dex="/Users/Bob_ge/Documents/GitHubWorkSpace/Local2.0+/demo_app_android_fast_v2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-6757d6bcfd7d5170a62039047b1706bce2bc6723.jar" />
     </item>
 
 </items>

@@ -5,7 +5,7 @@
 
     <ProgressBar
         android:id="@android:id/progress"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
         android:layout_gravity="center" />
-</FrameLayout><!-- From: file:/Users/Bob_ge/Documents/GitHubWorkSpace/GitHub2.0.+/demo-app-android-quick-start/IMKit/src/main/res/layout/rc_item_progress.xml -->
+</FrameLayout><!-- From: file:/Users/Bob_ge/Documents/GitHubWorkSpace/Local2.0+/demo_app_android_fast_v2/IMKit/src/main/res/layout/rc_item_progress.xml -->
