@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Programming\demo-app-android-quick-start\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="F:\Programming\demo-app-android-quick-start\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_6d8aada1739d61263820bfbe4e94bc2bdeae98f9.jar" />
+    </item>
+    <item
+        jar="D:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="F:\Programming\demo-app-android-quick-start\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_de8be6565c55346379f3478b7e3dbb4f60cb9087.jar" />
+    </item>
+    <item
+        jar="F:\Programming\demo-app-android-quick-start\app\build\intermediates\exploded-aar\demo-app-android-quick-start\IMKit\unspecified\jars\libs\RongIMKitRes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0026b4105fea6391f7fd322ed9dda0cc047d5d98">
+        <dex dex="F:\Programming\demo-app-android-quick-start\app\build\intermediates\pre-dexed\debug\RongIMKitRes_531941b281352d58426e0bb1a3eca3fecd89a16a.jar" />
+    </item>
+    <item
+        jar="F:\Programming\demo-app-android-quick-start\app\build\intermediates\exploded-aar\demo-app-android-quick-start\IMKit\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="74f36e11eea0dacf7716264a3be0ae2e7b6300ba">
+        <dex dex="F:\Programming\demo-app-android-quick-start\app\build\intermediates\pre-dexed\debug\demo-app-android-quick-start-IMKit-unspecified_698886920eac74619939618858292bf765893a46.jar" />
+    </item>
+    <item
+        jar="F:\Programming\demo-app-android-quick-start\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="F:\Programming\demo-app-android-quick-start\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_626b78d9cc2a1ac1906c9e511818d7308adf3796.jar" />
+    </item>
+    <item
+        jar="F:\Programming\demo-app-android-quick-start\app\build\intermediates\exploded-aar\demo-app-android-quick-start\IMKit\unspecified\jars\libs\Rong_IMKit_v2_5_0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="30843a5cd60d358300472da4c5133303dc28e91e">
+        <dex dex="F:\Programming\demo-app-android-quick-start\app\build\intermediates\pre-dexed\debug\Rong_IMKit_v2_5_0_8b6e26b70f425dca2e5cf98ed421be2f677f231b.jar" />
+    </item>
+
+</items>
